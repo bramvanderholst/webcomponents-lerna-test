@@ -1,0 +1,28 @@
+{
+  "name": "@bramtest/first-elem",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Bram van der Holst <bram@h-o.nl>",
+  "homepage": "https://github.com/bramvanderholst/webcomponents-lerna-test#readme",
+  "license": "ISC",
+  "main": "first-elem.js",
+  "directories": {
+    "test": "__tests__"
+  },
+  "files": [
+    "first-elem.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bramvanderholst/webcomponents-lerna-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/bramvanderholst/webcomponents-lerna-test/issues"
+  }
+}
