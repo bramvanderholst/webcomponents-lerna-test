@@ -1,0 +1,3 @@
+[submodule "third-elem"]
+	path = third-elem
+	url = git@github.com:bramvanderholst/webcomponent-third-elem.git
