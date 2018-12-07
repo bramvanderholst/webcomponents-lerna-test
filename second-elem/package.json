@@ -24,8 +24,5 @@
   },
   "bugs": {
     "url": "https://github.com/bramvanderholst/webcomponents-lerna-test/issues"
-  },
-  "dependencies": {
-    "@bramtest/first-elem": "^1.0.1"
   }
 }

@@ -1,5 +1,4 @@
 import {PolymerElement, html} from '@polymer/polymer/polymer-element.js';
-import ""
 
 class SecondElem extends PolymerElement {
   static get template() {
