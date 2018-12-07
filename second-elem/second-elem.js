@@ -6,6 +6,7 @@ class SecondElem extends PolymerElement {
     <style>
       :host {
         display: block;
+        margin-bottom: 10px;
       }
     </style>
 `;
