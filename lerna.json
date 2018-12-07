@@ -2,5 +2,8 @@
   "packages": [
     "**/*"
   ],
+  "ignoreChanges": [
+    "third-elem"
+  ],
   "version": "independent"
 }
