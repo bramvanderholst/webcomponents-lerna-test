@@ -13,7 +13,7 @@ class FirstElem extends PolymerElement {
 
   connectedCallback() {
     super.connectedCallback();
-    console.log('first!');
+    console.log('first!!');
   }
 
   static get properties() {
