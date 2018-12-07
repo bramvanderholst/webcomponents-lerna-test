@@ -2,6 +2,6 @@
 
 const firstElem = require('..');
 
-describe('@reachdigital/first-elem', () => {
+describe('@bramtest/first-elem', () => {
     it('needs tests');
 });

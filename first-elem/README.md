@@ -1,11 +1,11 @@
-# `@reachdigital/first-elem`
+# `@bramtest/first-elem`
 
 > TODO: description
 
 ## Usage
 
 ```
-const firstElem = require('@reachdigital/first-elem');
+const firstElem = require('@bramtest/first-elem');
 
 // TODO: DEMONSTRATE API
 ```
