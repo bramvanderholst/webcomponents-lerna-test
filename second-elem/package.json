@@ -1,6 +1,6 @@
 {
   "name": "@bramtest/second-elem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Bram van der Holst <bram@h-o.nl>",
   "homepage": "https://github.com/bramvanderholst/webcomponents-lerna-test#readme",
@@ -26,6 +26,6 @@
     "url": "https://github.com/bramvanderholst/webcomponents-lerna-test/issues"
   },
   "dependencies": {
-    "@bramtest/first-elem": "^1.0.0"
+    "@bramtest/first-elem": "^1.0.1"
   }
 }
