@@ -2,7 +2,7 @@
   "name": "@reachdigital/fifth-elem",
   "description": "My fifth test element",
   "main": "fifth-elem.js",
-  "version": "1.0.0-alpha.0",
+  "version": "1.0.0",
   "dependencies": {
     "@polymer/polymer": "^3.0.0"
   },
